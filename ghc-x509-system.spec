@@ -6,7 +6,7 @@
 Summary:	Handle per-operating-system X.509 accessors and storage
 Name:		ghc-%{pkgname}
 Version:	1.6.6
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/x509-system
